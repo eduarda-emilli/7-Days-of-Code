@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Desafios concluidos/em andamento</h2>
-<span>Lógica de Programação com JavaScript</span>
+<p>Lógica de Programação com JavaScript</p>
 
 <ul>
     <li><a href="https://github.com/eduarda-emilli/7-Days-of-Code/tree/main/JavaScript/Dia%2001">Dia 01 - Operadores Lógicos</a></li>
