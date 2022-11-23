@@ -1,3 +1,11 @@
+console.log("false == '0' : ", false == '0');
+console.log("null == undefined : ", null == undefined);
+console.log('"\t\r\n" == 0 : ', "\t\r\n" == 0);
+console.log("'' == 0 : ", '' == 0);
+console.log("3 != '3' : ", 3 != '3');
+console.log("3 !== '3' : ", 3 !== '3');
+
+
 let numeroDez = 10
 let stringDez = '10'
 let numeroTrinta = 30

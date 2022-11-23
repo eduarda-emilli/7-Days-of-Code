@@ -1,1 +1,2 @@
-<h1> Dia 01 - Operadores Lógicos </h1>
+<h1 align="center"> Dia 01 - Operadores Lógicos </h1>
+
