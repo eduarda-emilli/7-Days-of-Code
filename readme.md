@@ -2,12 +2,17 @@
 
 <p>Colocando em prática meus conhecimentos em programação com desafios diarios!</p>
 
-&#x11088<h2>Tecnologia de Foco &#11088</h2>
-<span>JavaScript</span>
-
 <h2>Objetivo</h2>
 <ul>
     <li>Realizar um projeto por dia</li>
     <li>Compartilhar conhecimento</li>
     <li>Melhorar minhas habilidades</li>
 </ul>
+
+<h2>Desafios concluidos/em andamento</h2>
+<span>Lógica de Programação com JavaScript</span>
+
+<ul>
+    <li>Dia 01 - Operadores Lógicos</li>
+</ul>
+ 
