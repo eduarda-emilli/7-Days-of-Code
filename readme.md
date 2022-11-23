@@ -1,12 +1,13 @@
 <h1>#7 Days of Code - Alura</h1>
 
-<p>Colocando em prática meus conhecimentos em desafios diarios!</p>
+<p>Colocando em prática meus conhecimentos em programação com desafios diarios!</p>
 
-<h2>Tecnlogia Preferida</h2>
+&#x11088<h2>Tecnologia de Foco &#11088</h2>
 <span>JavaScript</span>
 
 <h2>Objetivo</h2>
 <ul>
-    <l1>Realizar um projeto por dia</l1>
+    <li>Realizar um projeto por dia</li>
     <li>Compartilhar conhecimento</li>
+    <li>Melhorar minhas habilidades</li>
 </ul>
