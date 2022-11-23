@@ -2,7 +2,7 @@
 
 <p>Colocando em prática meus conhecimentos em programação com desafios diarios!</p>
 
-<h2>Objetivo '&#x11088' </h2>
+<h2>Objetivo</h2>
 <ul>
     <li>Realizar um projeto por dia</li>
     <li>Compartilhar conhecimento</li>
