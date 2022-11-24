@@ -14,5 +14,6 @@
 
 <ul>
     <li><a href="https://github.com/eduarda-emilli/7-Days-of-Code/tree/main/JavaScript/Dia%2001">Dia 01 - Operadores Lógicos</a></li>
+    <li><a href="https://github.com/eduarda-emilli/7-Days-of-Code/tree/main/JavaScript/Dia%2002">Dia 02 - Vaiáveis</a></li>
 </ul>
  
