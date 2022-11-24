@@ -1,4 +1,4 @@
-<h1>Dia 02 - Variáveis<h1>
+<h2>Dia 02 - Variáveis<h2>
 
 <p>Objetivo: desenvolver um programa simulando as seguintes perguntas...<p>
 
