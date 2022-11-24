@@ -1,4 +1,4 @@
-<p>Objetivo: desenvolver um programa simulando as seguintes perguntas...<p>
+<p><strong>Objetivo: desenvolver um programa simulando as seguintes perguntas...</strong><p>
 
 <ul>
     <li>'Qual o seu nome?'</li>
