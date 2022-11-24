@@ -12,5 +12,5 @@
 
 <span>"Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"</span>
 
-<h2>Meu primeiro resultado: </h2>
+<h3>Meu primeiro resultado: </h3>
 
