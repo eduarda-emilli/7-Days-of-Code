@@ -6,42 +6,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogo do Destino</title>
     <style>
-        body {
-            text-align: center;
+
+      * {
+        padding: 0px;
+        margin: 0px;
+      }
+        #background {
+         background-color: rgba(13, 235, 161, 0.801);
+         padding: 60px;
+         height: 100%;
+        }
+        
+      
+
+        h1,h2 {
+          text-align: center;
+          margin: 5px;
+        }
+
+        input {
+          margin: 5px;
+          padding: 4px;
+        }
+
+        h4 {
+          margin: 5px;
+          padding: 3px;
         }
     </style>
 </head>
 <body>
-    <h1>Jogo do Destino</h1>
-    <h2>#7DaysOfCode</h2>
+    <div id="background">
+      <h1>Jogo do Destino</h1>
+      <h2>#7DaysOfCode</h2>
+    </div>
     
-
     <input type='radio' name='opcoes' value="Front-end" onclick="clicou(1)"> Front-end
     <input type='radio' name='opcoes' value="Back-end" onclick="clicou(2)"> Back-end
     <br><br>
-    <label id="FrontBack"></label> <br>
+    <label id="seFrontBack"></label> <br>
+    
+    <a href="https://www.alura.com.br/artigos/angular-vs-react-vs-vue-js?gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLsoidW2RjgcIHReLiKbZbXSISl6ww9AJPzHlbiWpVG8XZUDr1cInXQaAnnQEALw_wcB"></a>
+
+
+<button>React</button>
+
+    <hr>
+
+    <h4>Muito bem! Agora conta ai, você pretende seguir...</h4>
+    <input type="radio" name="opcoes" value="escolha" onclick="escolha(1)"> Se especializando na área
+    <input type="radio" name="opcoes" value="escolha" onclick="escolha(2)"> Continuar estudando e se tornar Fullstack
+    <label id="escolhaTech"></label>
+
   <hr>
 
-  <script>
-    function adicionaEscolha() {
-  tecnologiasEscolhidas = document.getElementById("tecnologiasEscolhidas");
-  tecnologiasEscolhidas.innerHTML +=
-    " - " + document.getElementById("tecnologias").value;
-
-  document.getElementById("quaisTecnologias").innerHTML =
-    "Tem mais alguma tecnologia que você quer aprender ?";
-  document.getElementById("tecnologias").value = " ";
-}
-
-function clicouRadio(opcao) {
-  escolhaFrontBack = document.getElementById("escolhaFrontBack");
-  if (opcao == 1) {
-    escolhaFrontBack.innerHTML = "Você deve aprender React ou Vue";
-  } else {
-    escolhaFrontBack.innerHTML = "Você deve aprender C# ou Java";
-  }
-}
-
-  </script>
+    <h4 id="Tecnologias">E quais tecnologias você gostaria de se especiliar ou conhecer?</h4>
+    <input type="text" value="" id="tech">
+    <button id="confirmar" onclick="Escolha()"> Adicionar</button> 
+ 
+  <script src="teste.js"></script>
 </body>
 </html>
